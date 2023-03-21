@@ -1,45 +1,87 @@
-Title	Link
+# Title	                                                                   Link
+
 What is Power BI Desktop and How to download and install it in Windows 10?	https://youtu.be/dPrDJ4C3stY
+
 Walkthrough of Power BI software	https://youtu.be/EOvwBnwZb1k
+
 Importing csv data inside power BI	https://youtu.be/B6joIrnWY7Q
+
 Importing Excel Data inside Power BI	https://youtu.be/LOnXePDb2hQ
+
 Creating First Visualization (a bar chart)  in Power BI and Formatting It	https://youtu.be/s7RxDAm4TP0
+
 Creating first Slicer in Power BI and Formatting it	https://youtu.be/ws3pqH_GAXs
+
 Creating First DAX calculated field in power BI	https://youtu.be/hdmS55-wnAg
+
 Creating Date Slicer / Filter in Power BI and Formatting It	https://youtu.be/Rs_sbl0VSPA
+
 Create Numeric Slicer / Filter in Power BI and Formatting It	https://youtu.be/WvrhUhWBIu4
+
 Changing Slicer Look and Feel with Selection Type	https://youtu.be/tKbGuu7zrrw
+
 How to create Power BI Stacked bar Chart	https://youtu.be/f9BffgPk2oQ
+
 How to Create Power BI 100% Stacked bar chart	https://youtu.be/6NhvaBLFjmQ
+
 How to Create Power BI Pie Chart	https://youtu.be/YWcYU3FzM8Q
-How to create Power BI Donut Chart	
+
+## How to create Power BI Donut Chart	
+
 How to Create Stack Area Chart	https://youtu.be/GEBwTzWvk1w
+
 How to Create and Customize Line and Stacked Bar Chart in Power BI	https://youtu.be/ypwc9U58gIQ
+
 How to Create and Customize Power Bi Cluster Bar and Line Chart	https://youtu.be/5SOOem9-o5M
+
 How to connect power bi with Wikipedia website and import data	https://youtu.be/UPvUYL0IsuE
+
 How to connect power bi with Microsoft access database and import data	https://youtu.be/rvsfN5WQWps
+
 How to connect power bi with mysql server and import data	https://youtu.be/ZVXiosudsfs
+
 How to Connect SQLite with Power BI and import data	https://youtu.be/6bmTdIeu5rA
+
 How to connect power bi with espn website and import sports data	https://youtu.be/VzzPQxvZf3o
+
 Creating and Formatting Power BI Waterfall chart	https://youtu.be/EMAeST5571M
+
 Power BI Ribbon Chart creation and formatting | Visualizing ranks	https://youtu.be/DffvB-6qHAE
+
 How to create and format funnel chart in power bi	https://youtu.be/HNMFSsQZk8c
+
 How to Create and Format Power BI Scatter Chart	https://youtu.be/NVR9VqmFOm0
+
 How include or exclude a part of visualization in power bi	https://youtu.be/WKoCbpoVHD8
+
 Power BI Q&A or Natural Language Processing NLP Visual Component Creation Tutorial	https://youtu.be/RK5VT_i1ZNg
+
 Power BI Decomposition Tree or Decision Tree Creation Tutorial and Walkthrough for interpretation	https://youtu.be/Ur5EgsUNd-o
+
 Power BI Key Influencer Chart Creation Tutorial and Walkthrough for interpretation	https://youtu.be/Q2AL-MZQu94
+
 How to Create and Conditionally Format Power BI Matrix or Pivot Table	https://youtu.be/opvpgv9o0I8
+
 How to Create and Conditionally Format Power BI Table	https://youtu.be/KDBfTe6_0Ro
+
 How to Create and Format Power BI Indicator KPI Chart	https://youtu.be/pgCMxeoSg_s
+
 How to Create and Format Power BI Card KPI	https://youtu.be/09NuVN1e7Ns
+
 Power BI Gauge Chart Create and Format	https://youtu.be/0NEHdPsVWQc
+
 Power BI Maps Chart Creating and Customizing	https://youtu.be/YSJXD4uW278
+
 Power BI Treemap Chart Creating and Customizing	https://youtu.be/6zwhvMBodKs
+
 How to Change the Aggregation in Power BI as well as Use one field multiple times	https://youtu.be/CgR5NaPZs2E
+
 Creating Hierarchies in Power BI	https://youtu.be/jzr__qqEqJI
+
 Customizing Power BI Totals and Subtotals	https://youtu.be/yBfC5HgMm9w
+
 Power BI Number or Numeric Field Formatting and Conditional Formatting Tutorial	https://youtu.be/DO5i90xss44
+
 Connecting Power BI Report Pages with Drill Through Configuration option	https://youtu.be/oQhcJrtknSM
 Power BI Relative Date Filter Tutorial	https://youtu.be/Tlv_on8T5VA
 Power BI Advance Date Filtering Tutorial with Example	https://youtu.be/1bQSDAiRRyo
