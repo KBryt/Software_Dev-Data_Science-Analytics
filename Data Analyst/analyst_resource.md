@@ -31,12 +31,6 @@
 
 ## DATA STORYTELLING
 
-10. From data to stories - https://bit.ly/3o3Na8s
-
-
-11. Data storytelling - https://bit.ly/3MeU05a
-
-
 12. Data storytelling handbook - https://bit.ly/3MpZ7zG
 
 
