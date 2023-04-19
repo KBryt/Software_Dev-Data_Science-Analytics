@@ -1,7 +1,7 @@
 <div align="center">
 	
 # `Table of Contents 📋`
-| SNo. | Topics | Sub Topics |
+| No. | Subject | Topics |
 |------|--------|------------|
 | 1.   | [📘APIs](https://github.com/KBryt/Software_Dev-Data_Science-Analytics/tree/main/APIs)             | [1️⃣] <br> [2️⃣] |
 | 2.   | [📘Data Analyst](https://github.com/KBryt/Software_Dev-Data_Science-Analytics/tree/main/Data%20Analyst)                                                   | [1️⃣] <br> [2️⃣] <br> [3️⃣]|
