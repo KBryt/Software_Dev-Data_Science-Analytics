@@ -1,4 +1,4 @@
-## I have compiled a list of some of the most useful and important links to resources in `software engineering`, `Data Engineering`, `Data Science` and `Data Analysis`. Please navigate through the repo and `fork` or `clone` to add any resources that will be useful to others by making a `Pull Request`. 
+## I have compiled a list of some of the most useful and important links to resources in `software engineering`, `Data Engineering`, `Data Science` and `Data Analysis`. Please navigate through the repo and `fork` to add any resources that will be useful to others by making a `Pull Request`. 
 
 ### Feel free to copy any material in this repo
 
