@@ -1,6 +1,10 @@
+## I have compiled a list of some of the most common and important links to resources in `software engineering`, `Data Engineering`, `Data Science` and `Data Analysis`. Please navigate through the repo and `fork` or `clone` to add any resource you think will be useful to others by making a `Pull Request`. 
+
+### Feel free to copy any material in this repo
+
 <div align="center">
 	
-# `Table of Contents 📋`
+## `Table of Contents 📋`
 | No. | Subject | Topics |
 |------|--------|------------|
 | 1.   | [📘APIs](https://github.com/KBryt/Software_Dev-Data_Science-Analytics/tree/main/APIs)             | [1️⃣] <br> [2️⃣] |
