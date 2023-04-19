@@ -1,6 +1,6 @@
-If you are looking to learn more about Transformers, here is a great list of resources:
+# If you are looking to learn more about Transformers, here is a great list of resources:
 
-Github: 
+## Github: 
 - This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations: https://lnkd.in/gZhvHnvf
 
 - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch: https://lnkd.in/gEAbgYiW
@@ -16,7 +16,7 @@ Github:
 - Implementation / replication of DALL-E (paper), OpenAI's Text to Image model, in Pytorch. It will also contain CLIP for ranking the generations: https://lnkd.in/gavBv4zn
 
 
-Articles:
+## Articles:
 - An Introduction to Transformers and Sequence-to-Sequence Learning for Machine Learning: https://lnkd.in/gyX_5NBA
 
 - A list of over 50 Transformers: https://lnkd.in/gz7m5FcP
@@ -30,7 +30,7 @@ Articles:
 - What are transformers and how can you use them? https://lnkd.in/gBAXFYfR
 
 
-Youtube videos:
+## Youtube videos:
 - What are Transformers (Machine Learning Model)? by IBM Technology: https://lnkd.in/gA3fGhx6
 
 - Transformers, explained: Understand the model behind GPT, BERT, and T5 by Google Cloud Tech: https://lnkd.in/gyV-DTRq
