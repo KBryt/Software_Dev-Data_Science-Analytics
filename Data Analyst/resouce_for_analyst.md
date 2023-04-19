@@ -15,6 +15,7 @@
 
 1. PowerBI full course - https://lnkd.in/dyuuxggA
 2. Tableau Full Course- https://lnkd.in/dkDmp-mV, [tableau for 2022](https://www.youtube.com/watch?v=6IFq0HxWht4&list=PLRfaJ7ZL0cF5AQzsRDOUuML-hr56vZOfr)
+3. Tableau Full Course [videos](https://www.youtube.com/watch?v=aHaOIvR00So&t=45s)
  
  
 ## Do Some Projects
