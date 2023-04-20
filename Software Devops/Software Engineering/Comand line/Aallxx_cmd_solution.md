@@ -1,4 +1,4 @@
-# Command Challenge - Solutions
+# AALLXX Command Challenge - Solutions
 ---
 [![](https://cmdchallenge.com/img/emojis/1F40C.png)]()
 #### Level 1 : print "hello world"
