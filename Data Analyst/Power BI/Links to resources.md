@@ -84,85 +84,88 @@
 
 - Connecting Power BI Report Pages with Drill Through Configuration option	https://youtu.be/oQhcJrtknSM
 
--Power BI Relative Date Filter Tutorial	https://youtu.be/Tlv_on8T5VA
--Power BI Advance Date Filtering Tutorial with Example	https://youtu.be/1bQSDAiRRyo
--Power BI Selection Panel to Show or Hide the Visualization	https://youtu.be/mSvJQdHLOAw
--Power BI Animated Bar Race Chart Tutorial	https://youtu.be/NlPZ35bbhOc
--How to create infographic in Power BI or image on bar chart	https://youtu.be/TwOEN-QSTJ4
--How to create word cloud in power bi	https://youtu.be/brkbbS4GSGw
--How to Create Power BI Sankey Chart	https://youtu.be/T7lVEk9pWY8
--How to Create Sunburst Chart in Power BI	https://youtu.be/m8voZUVyy4Q
--How to Create Histogram Chart in Power BI	https://youtu.be/K0vNt_NI1j0
--Power BI Buttons - Page Navigation Button	https://youtu.be/R__tM6fFisQ
--Power BI Buttons | Page Navigation Buttons to Jump on any Page	https://youtu.be/m_mLOSw-aKM
--Improving Power BI Buttons Look and Feel to Make Them Interactive	https://youtu.be/JJ0NvVkuGcs
--Power BI Buttons with Bookmarks	https://youtu.be/SrHDiN67594
--Power BI Bullet Chart	https://youtu.be/oO5AiRR7XLA
--Power BI Torndao Chart	https://youtu.be/Y4goSyEDhA0
--Power BI Bow Tie Chart	https://youtu.be/mO9CbqJ2BCc
--Power BI Box and Whisker Plot	https://youtu.be/mFW2N-6o22k
--How to Create a New Measure in Power BI by applying DAX Function Sum	https://youtu.be/jCYN1LD3m98
--Power BI Dax Function Divide Tutorial to make division between two fields	https://youtu.be/IMcmhGXtYDg
--Power BI Min Dax Function to Find Minimum Values and Keeping them in new Measure	https://youtu.be/pHYEJOVUsLE
--Power BI Dax Function Max Tutorial to Find Maximum Values in a field and Creating New Measure	https://youtu.be/_TK6VjbEDyY
--Power BI Dax Function Calculate to Conditionally Calculate and create New Measures	https://youtu.be/wRGU_4cZZkA
--Power BI Dax Function Average to Calculate Average of Numeric Field	https://youtu.be/NgyfWgK7T7Y
--Power BI Dax Function Average to Calculate Average of Numeric Field	https://youtu.be/NgyfWgK7T7Y
--Power BI DAX Function All to remove the impact of filter on a Field	https://youtu.be/tOtbxdBy4mU
--8 Power BI DAX Function AllSelected to get Grand Totals for Each Category	https://youtu.be/1wW-BAWHBRU
--Power BI CalculateTable function to create new virtual table and measure	https://youtu.be/5ra8N-rnebA
--Power BI Dax Function Filter Tutorial for Creating New Filtered Table and Measure	https://youtu.be/qqgRgkLVrNM
--Power BI DAX Function Sumx Tutorial | SUM vs SUMX	https://youtu.be/3Y9LMfZhxtY
--Power BI DAX Function Average Tutorial | Average vs AverageX	https://youtu.be/Qu1EtMiVXg8
--Power BI Dax Function MinX Tutorial | Min vs MinX | Finding Minimum of Calculation	https://youtu.be/tPlTdoO4Aqo
--Power BI DAX Function MAXX Tutorial | MAX vs MAXX | Finding Maximum Value of Calculation	https://youtu.be/kuABnZInsms
--Power BI Median and Medianx Function with Example	https://youtu.be/qS5IN2Z18mY
--Power BI IF and Nesed IF Function	https://youtu.be/WaihbAT1tEc
--Power BI - Conditional sum of two or more than two categories	https://youtu.be/3EVYw96QpjI
--Power BI - Counting Distinct Values	https://youtu.be/HEPquSiWI-c
--Power BI - How to count table rows | Row Count Function	https://youtu.be/rLrCg_pk1W0
--Power BI - Counting Missing Values	https://youtu.be/ASHmK4AxLr0
--Power BI - How to Create Dynamic Calendar	https://youtu.be/2-q2oXYNL-o
--How to Calculate MTD (Month to Date) Rolling Total Values	https://youtu.be/ofqWBiFAwBs
--How to Calculate QTD (Quarter to Date) Rolling Total Values	https://youtu.be/1l6U7tJkdVY
--How to Calculate YTD (Year to Date) Rolling Sum	https://youtu.be/jcL0wH5hc_M
--Power BI Tools Tips - Adding multiple measure values on Power to Charts	https://youtu.be/9sQ5wb3JjCo
--Custom Power BI Tooltips - Adding complete report page as Tool Tip	https://youtu.be/2AdWJXBCHes
--Tooltip for Power BI Buttons	https://youtu.be/jDVDsrKSdXA
--How to display very long tooltips in power bi	https://youtu.be/cXiQBmt9KmU
--Power BI Visual Header Tooltip	https://youtu.be/WGa7CYXXNpw
--How to change style of power bi Table Chart	https://youtu.be/EyJoZOFw7lI
--Formatting Power BI Table Grid	https://youtu.be/IyEy_WUnLj4
--How to Set Power BI Chart Level or Visual Level Filters	https://youtu.be/p_1ihCuvntE
--Power BI Page level filters to filter all the visualization of page	https://youtu.be/1aND2yxL0nQ
--Power BI Global Filter or Report Level Filter	https://youtu.be/5DHzhMKB1qY
--Sorting Power BI Visualization	https://youtu.be/yrHuOnOPY64
--Sorting Power BI Visualization on Another Column	https://youtu.be/QDzHuUCdPQ8
--Power BI TopN Filter to Display the Top or Bottom Values in the Chart	https://youtu.be/7jYnRoh86_Y
--Power BI Sync Slicer Option for create Slicer in Multiple Reports	https://youtu.be/_rwb-u3r-nU
--Power BI Hidden Filters and How to View them	https://youtu.be/fjBUDfXLje0
--Power BI Hidden Filters and How to View them	https://youtu.be/fjBUDfXLje0
--Why All Values on my X Axis of Power BI Chart is not Displayed	https://youtu.be/7xhBYCepbfg
--How to Display Image in Power BI chart background	https://youtu.be/sZytuU3ZoVE
--How to create Small multiple Chart or Trellis Chart and why they are Great	https://youtu.be/8A6CfMkhc1E
--How to Change Power BI Chart Interaction Setting from Highlight to Filter or None	https://youtu.be/PimO76370-Y
--Power BI Dynamic Report Title based on Selected Drill Through Value	https://youtu.be/92o380bqh1s
--Power BI Stepped Line Chart	https://youtu.be/9a_wxpWcf84
--Power BI Keep on Filter Option Use that is Present on Field Section Page	https://youtu.be/TzhmX-JX14E
--Power BI Drill Through Report using Button	https://youtu.be/P_gWDy7Kamc
--Power BI Card KPI Conditionally Format	https://youtu.be/aAARRysstAw
--Power BI Bar Chart within Table Visualization	https://youtu.be/ZuNaYDryAs0
--How to Conditionally Format Power BI Table Font or Background	https://youtu.be/2r0rykGLAaw
--How to Show KPI Icons in Power BI Table and Conditionally Format it	https://youtu.be/IIALsGidmRc
--How to Create Trend Line in Power BI Scatter Chart	https://youtu.be/Wc10X6O-UBk
--Power BI Quick Mesaure to Create Running Total Calculation	https://youtu.be/NHZJ3u4jsMA
--Power BI advance data export to add additional column that is not part of visualization	https://youtu.be/LG5EyAwOYMs
--Adding reference line to your power bi bar chart	https://youtu.be/zNUTHXtEg0Q
--Adding Dynamic Reference Line on Power BI chart for Min Max Average Median and Percentile	https://youtu.be/CAZT-0ralEM
--Power BI Shortcut keys	https://youtu.be/UIW9rBVLpGg
--Setting Power BI Charts and Objects Navigation Order for Tab Key	https://youtu.be/5QoHICWWhaw
--How to change and customize power bi theme	https://youtu.be/BEu0eIHk-AY
--Power BI YoY Quick Mesaure Calculation Proudcuing incorrect output	https://youtu.be/znDaUYqwn08
+- Power BI Relative Date Filter Tutorial	https://youtu.be/Tlv_on8T5VA 
+
+- Power BI Advance Date Filtering Tutorial with Example	https://youtu.be/1bQSDAiRRyo
+
+- Power BI Selection Panel to Show or Hide the Visualization	https://youtu.be/mSvJQdHLOAw
+
+- Power BI Animated Bar Race Chart Tutorial	https://youtu.be/NlPZ35bbhOc
+- How to create infographic in Power BI or image on bar chart	https://youtu.be/TwOEN-QSTJ4
+- How to create word cloud in power bi	https://youtu.be/brkbbS4GSGw
+- How to Create Power BI Sankey Chart	https://youtu.be/T7lVEk9pWY8
+- How to Create Sunburst Chart in Power BI	https://youtu.be/m8voZUVyy4Q
+- How to Create Histogram Chart in Power BI	https://youtu.be/K0vNt_NI1j0
+- Power BI Buttons - Page Navigation Button	https://youtu.be/R__tM6fFisQ
+- Power BI Buttons | Page Navigation Buttons to Jump on any Page	https://youtu.be/m_mLOSw-aKM
+- Improving Power BI Buttons Look and Feel to Make Them Interactive	https://youtu.be/JJ0NvVkuGcs
+- Power BI Buttons with Bookmarks	https://youtu.be/SrHDiN67594
+- Power BI Bullet Chart	https://youtu.be/oO5AiRR7XLA
+- Power BI Torndao Chart	https://youtu.be/Y4goSyEDhA0
+- Power BI Bow Tie Chart	https://youtu.be/mO9CbqJ2BCc
+- Power BI Box and Whisker Plot	https://youtu.be/mFW2N-6o22k
+- How to Create a New Measure in Power BI by applying DAX Function Sum	https://youtu.be/jCYN1LD3m98
+- Power BI Dax Function Divide Tutorial to make division between two fields	https://youtu.be/IMcmhGXtYDg
+- Power BI Min Dax Function to Find Minimum Values and Keeping them in new Measure	https://youtu.be/pHYEJOVUsLE
+- Power BI Dax Function Max Tutorial to Find Maximum Values in a field and Creating New Measure	https://youtu.be/_TK6VjbEDyY
+- Power BI Dax Function Calculate to Conditionally Calculate and create New Measures	https://youtu.be/wRGU_4cZZkA
+- Power BI Dax Function Average to Calculate Average of Numeric Field	https://youtu.be/NgyfWgK7T7Y
+- Power BI Dax Function Average to Calculate Average of Numeric Field	https://youtu.be/NgyfWgK7T7Y
+- Power BI DAX Function All to remove the impact of filter on a Field	https://youtu.be/tOtbxdBy4mU
+- 8 Power BI DAX Function AllSelected to get Grand Totals for Each Category	https://youtu.be/1wW-BAWHBRU
+- Power BI CalculateTable function to create new virtual table and measure	https://youtu.be/5ra8N-rnebA
+- Power BI Dax Function Filter Tutorial for Creating New Filtered Table and Measure	https://youtu.be/qqgRgkLVrNM
+- Power BI DAX Function Sumx Tutorial | SUM vs SUMX	https://youtu.be/3Y9LMfZhxtY
+- Power BI DAX Function Average Tutorial | Average vs AverageX	https://youtu.be/Qu1EtMiVXg8
+- Power BI Dax Function MinX Tutorial | Min vs MinX | Finding Minimum of Calculation	https://youtu.be/tPlTdoO4Aqo
+- Power BI DAX Function MAXX Tutorial | MAX vs MAXX | Finding Maximum Value of Calculation	https://youtu.be/kuABnZInsms
+- Power BI Median and Medianx Function with Example	https://youtu.be/qS5IN2Z18mY
+- Power BI IF and Nesed IF Function	https://youtu.be/WaihbAT1tEc
+- Power BI - Conditional sum of two or more than two categories	https://youtu.be/3EVYw96QpjI
+- Power BI - Counting Distinct Values	https://youtu.be/HEPquSiWI-c
+- Power BI - How to count table rows | Row Count Function	https://youtu.be/rLrCg_pk1W0
+- Power BI - Counting Missing Values	https://youtu.be/ASHmK4AxLr0
+- Power BI - How to Create Dynamic Calendar	https://youtu.be/2-q2oXYNL-o
+- How to Calculate MTD (Month to Date) Rolling Total Values	https://youtu.be/ofqWBiFAwBs
+- How to Calculate QTD (Quarter to Date) Rolling Total Values	https://youtu.be/1l6U7tJkdVY
+- How to Calculate YTD (Year to Date) Rolling Sum	https://youtu.be/jcL0wH5hc_M
+- Power BI Tools Tips - Adding multiple measure values on Power to Charts	https://youtu.be/9sQ5wb3JjCo
+- Custom Power BI Tooltips - Adding complete report page as Tool Tip	https://youtu.be/2AdWJXBCHes
+- Tooltip for Power BI Buttons	https://youtu.be/jDVDsrKSdXA
+- How to display very long tooltips in power bi	https://youtu.be/cXiQBmt9KmU
+- Power BI Visual Header Tooltip	https://youtu.be/WGa7CYXXNpw
+- How to change style of power bi Table Chart	https://youtu.be/EyJoZOFw7lI
+- Formatting Power BI Table Grid	https://youtu.be/IyEy_WUnLj4
+- How to Set Power BI Chart Level or Visual Level Filters	https://youtu.be/p_1ihCuvntE
+- Power BI Page level filters to filter all the visualization of page	https://youtu.be/1aND2yxL0nQ
+- Power BI Global Filter or Report Level Filter	https://youtu.be/5DHzhMKB1qY
+- Sorting Power BI Visualization	https://youtu.be/yrHuOnOPY64
+- Sorting Power BI Visualization on Another Column	https://youtu.be/QDzHuUCdPQ8
+- Power BI TopN Filter to Display the Top or Bottom Values in the Chart	https://youtu.be/7jYnRoh86_Y
+- Power BI Sync Slicer Option for create Slicer in Multiple Reports	https://youtu.be/_rwb-u3r-nU
+- Power BI Hidden Filters and How to View them	https://youtu.be/fjBUDfXLje0
+- Power BI Hidden Filters and How to View them	https://youtu.be/fjBUDfXLje0
+- Why All Values on my X Axis of Power BI Chart is not Displayed	https://youtu.be/7xhBYCepbfg
+- How to Display Image in Power BI chart background	https://youtu.be/sZytuU3ZoVE
+- How to create Small multiple Chart or Trellis Chart and why they are Great	https://youtu.be/8A6CfMkhc1E
+- How to Change Power BI Chart Interaction Setting from Highlight to Filter or None	https://youtu.be/PimO76370-Y
+- Power BI Dynamic Report Title based on Selected Drill Through Value	https://youtu.be/92o380bqh1s
+- Power BI Stepped Line Chart	https://youtu.be/9a_wxpWcf84
+- Power BI Keep on Filter Option Use that is Present on Field Section Page	https://youtu.be/TzhmX-JX14E
+- Power BI Drill Through Report using Button	https://youtu.be/P_gWDy7Kamc
+- Power BI Card KPI Conditionally Format	https://youtu.be/aAARRysstAw
+- Power BI Bar Chart within Table Visualization	https://youtu.be/ZuNaYDryAs0
+- How to Conditionally Format Power BI Table Font or Background	https://youtu.be/2r0rykGLAaw
+- How to Show KPI Icons in Power BI Table and Conditionally Format it	https://youtu.be/IIALsGidmRc
+- How to Create Trend Line in Power BI Scatter Chart	https://youtu.be/Wc10X6O-UBk
+- Power BI Quick Mesaure to Create Running Total Calculation	https://youtu.be/NHZJ3u4jsMA
+- Power BI advance data export to add additional column that is not part of visualization	https://youtu.be/LG5EyAwOYMs
+- Adding reference line to your power bi bar chart	https://youtu.be/zNUTHXtEg0Q
+- Adding Dynamic Reference Line on Power BI chart for Min Max Average Median and Percentile	https://youtu.be/CAZT-0ralEM
+- Power BI Shortcut keys	https://youtu.be/UIW9rBVLpGg
+- Setting Power BI Charts and Objects Navigation Order for Tab Key	https://youtu.be/5QoHICWWhaw
+- How to change and customize power bi theme	https://youtu.be/BEu0eIHk-AY
+- Power BI YoY Quick Mesaure Calculation Proudcuing incorrect output	https://youtu.be/znDaUYqwn08
 - Power BI Quick Measure for Comparing one chart category with rest of the other chart categories	https://youtu.be/0SrFKkh7eS4
 - Power BI Quick Measure Calculation to find difference between one and rest of the other categories	https://youtu.be/IlUCRmL9Lz8
 - Power BI calcuation to visualize percentage difference between one and rest of the categories	https://youtu.be/ViuE3T-e4aQ
