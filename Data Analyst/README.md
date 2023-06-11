@@ -1,8 +1,8 @@
 
 
 <p align="center">
-  <img src="https://#"
-       alt="dashboard logo"
+  <img src="https://github.com/KBryt/Software_Dev-Data_Science-Analytics/blob/main/Data%20Analyst/assets/BI%26TAB.jpeg"
+       alt="logo"
        width="750"
   >
 </p>
