@@ -35,7 +35,7 @@ Here are the top 10 differences to help you decide which tool is the best fit fo
 
 
 <p align="center">
-  <img src="[https://github.com/KBryt/Software_Dev-Data_Science-Analytics/blob/main/Data%20Analyst/assets/BI%26TAB.jpeg](https://github.com/KBryt/Software_Dev-Data_Science-Analytics/blob/main/Data%20Analyst/assets/photo1684668122.jpeg)"
+  <img src="https://github.com/KBryt/Software_Dev-Data_Science-Analytics/blob/main/Data%20Analyst/assets/photo1684668122.jpeg"
        alt="logo1"
        width="750"
   >
