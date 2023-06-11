@@ -33,7 +33,7 @@ Here are the top 10 differences to help you decide which tool is the best fit fo
 
 ➡️Mobile App: Power BI has a more robust mobile app for iOS and Android devices, while Tableau's mobile app is more limited in functionality.
 
-
+## The V's of Big Data
 <p align="center">
   <img src="https://github.com/KBryt/Software_Dev-Data_Science-Analytics/blob/main/Data%20Analyst/assets/photo1684668122.jpeg"
        alt="logo1"
