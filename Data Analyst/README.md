@@ -32,3 +32,11 @@ Here are the top 10 differences to help you decide which tool is the best fit fo
 ➡️Collaboration: Power BI has more collaboration features built-in, such as co-authoring and commenting, whereas Tableau requires third-party tools to achieve similar functionality.
 
 ➡️Mobile App: Power BI has a more robust mobile app for iOS and Android devices, while Tableau's mobile app is more limited in functionality.
+
+
+<p align="center">
+  <img src="https://github.com/KBryt/Software_Dev-Data_Science-Analytics/blob/main/Data%20Analyst/assets/BI%26TAB.jpeg"
+       alt="logo"
+       width="750"
+  >
+</p>
