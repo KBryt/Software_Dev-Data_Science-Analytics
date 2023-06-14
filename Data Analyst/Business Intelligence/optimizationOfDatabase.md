@@ -1,51 +1,57 @@
-<div class="tdb-block-inner td-fix-index"><a class="tdb-author-photo"  href="https://blog.devart.com/author/dbforge" title="dbForge Team"><img alt='dbForge Team' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E" data-lazy-srcset='https://blog.devart.com/wp-content/uploads/2023/02/avatar-dbforge-team.png 2x' class='avatar avatar-96 photo' height='96' width='96' decoding='async' data-lazy-src="https://blog.devart.com/wp-content/uploads/2023/02/avatar-dbforge-team.png"/><noscript><img alt='dbForge Team' src='https://blog.devart.com/wp-content/uploads/2023/02/avatar-dbforge-team.png' srcset='https://blog.devart.com/wp-content/uploads/2023/02/avatar-dbforge-team.png 2x' class='avatar avatar-96 photo' height='96' width='96' decoding='async'/></noscript></a><div class="tdb-author-name-wrap"><span class="tdb-author-by">By</span> <a class="tdb-author-name" href="https://blog.devart.com/author/dbforge">dbForge Team</a></div></div></div><div class="td_block_wrap tdb_single_date tdi_73 td-pb-border-top td_block_template_10 tdb-post-meta"  data-td-block-uid="tdi_73" >
+<div class="tdb-block-inner td-fix-index"><h1 class="tdb-title-text">SQL Query Optimization: How to Tune Performance of SQL Queries</h1><div></div><div class="tdb-title-line"></div></div></div><div class="td_block_wrap tdb_single_author tdi_72 td-pb-border-top td_block_template_10 tdb-post-meta"  data-td-block-uid="tdi_72" >
+<style>
+
+/* inline tdc_css att */
+
+.tdi_72{
+margin-right:10px !important;
+}
+
+</style>
 <style>
 /* custom css */
-.tdb_single_date{
-                  line-height: 30px;
-                }.tdb_single_date a{
+.tdb-post-meta{
+                  margin-bottom: 16px;
+                  color: #444;
+                  font-family: 'Open Sans', 'Open Sans Regular', sans-serif;
+                  font-size: 11px;
+                  font-weight: 400;
+                  clear: none;
                   vertical-align: middle;
-                }.tdb_single_date .tdb-date-icon-svg{
-                  position: relative;
-                  line-height: 0;
-                }.tdb_single_date svg{
-                  height: auto;
-                }.tdb_single_date svg,
-                 .tdb_single_date svg *{
-                  fill: #444;
-                }.tdi_73{
-                    display: inline-block;
-                }.tdi_73 svg{
-                    width: 14px;
-                }.tdi_73 .tdb-date-icon{
-                    margin-right: 5px;
-                }
-</style><div class="tdb-block-inner td-fix-index"><time class="entry-date updated td-module-date" datetime="2021-12-23T12:35:09+02:00">December 23, 2021</time></div></div> <!-- ./block --><div class="td_block_wrap tdb_single_comments_count tdi_74 td-pb-border-top td_block_template_10 tdb-post-meta"  data-td-block-uid="tdi_74" >
-<style>
-/* custom css */
-.tdb_single_comments_count{
+                  line-height: 1;
+                }.tdb-post-meta span,
+                .tdb-post-meta i,
+                .tdb-post-meta time{
+                  vertical-align: middle;
+                }.tdb_single_author{
                   line-height: 30px;
-                }.tdb_single_comments_count .tdb-comm-icon-svg{
-                  position: relative;
-                  line-height: 0;
-                }.tdb_single_comments_count svg{
-                  height: auto;
-                }.tdb_single_comments_count svg,
-                 .tdb_single_comments_count svg *{
-                  fill: #444;
-                }.tdi_74{
-                    float: right;
-                
+                }.tdb_single_author a{
+                  vertical-align: middle;
+                }.tdb_single_author .tdb-block-inner{
+                  display: flex;
+                  align-items: center;
+                }.tdb_single_author .tdb-author-name-wrap{
+                  display: flex;
+                }.tdb_single_author .tdb-author-name{
+                  font-weight: 700;
+                  margin-right: 3px;
+                }.tdb_single_author .tdb-author-by{
+                  margin-right: 3px;
+                }.tdb_single_author .tdb-author-photo img{
+                  display: block;
+                }.tdi_72{
                     display: inline-block;
-                }.tdi_74 i{
-                    font-size: 10px;
-                }.tdi_74 .tdb-comm-icon{
-                    margin-right: 5px;
-                }.tdi_74 a{
-					color: #444;
-				}.tdi_74 a svg,
-				.tdi_74 a svg *{
-					fill: #444;
+                }.tdi_72 .tdb-author-name-wrap{
+                    align-items: baseline;
+                }.tdi_72 .avatar{
+                    width: 30px;
+                    height: 30px;
+                
+                    margin-right: 6px;
+                
+                    border-radius: 50%;
+                }.tdi_72 .tdb-author-name{
+					color: #000;
 				}
 </style><div class="tdb-block-inner td-fix-index"><a href="https://blog.devart.com/how-to-optimize-sql-query.html#respond"><i class="tdb-comm-icon td-icon-comments"></i><span class="tdb-add-text"></span><span>0</span></a></div></div><div class="td_block_wrap tdb_single_post_views tdi_75 td-pb-border-top td_block_template_10 tdb-post-meta"  data-td-block-uid="tdi_75" >
 <style>
