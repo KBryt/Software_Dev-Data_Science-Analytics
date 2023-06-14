@@ -3,7 +3,8 @@
 
 -- Create a tables with Partitions and clusters
 
---  To begin, create a new table without a partition or cluster. This will serve as a baseline to compare to the partitioned and clustered tables. Name it avocados.
+--  To begin, create a new table without a partition or cluster. This will serve as a baseline to compare to the partitioned and clustered tables. 
+-- Name it avocados.
 -- Then, in the Editor tab, copy and paste the following SQL code and click `Run`. 
 
 CREATE TABLE
@@ -48,7 +49,8 @@ AS (
 
 -- Query the table without a partition or cluster
 
--- Delete the code in the Editor tab, then copy and paste the following code. Click Run to query avocados—the table without partition or cluster.
+-- Delete the code in the Editor tab, then copy and paste the following code. 
+-- Click Run to query avocados—the table without partition or cluster.
 
 SELECT
     year,
@@ -62,7 +64,8 @@ ORDER BY year ASC;
 
 -- Query the partitioned table
 
--- Delete the code in the Editor tab, then copy and paste the following code. Click Run to query avocados_partitioned—the table that is partitioned by an integer range.
+-- Delete the code in the Editor tab, then copy and paste the following code. 
+-- Click Run to query avocados_partitioned—the table that is partitioned by an integer range.
 
 SELECT
     year,
@@ -76,7 +79,8 @@ ORDER BY year ASC;
 
 -- Query the partitioned and clustered table
 
--- Delete the code in the Editor tab, then copy and paste the following code. Click Run to query avocados_clustered—the table that is partitioned by an integer range and clustered by type.
+-- Delete the code in the Editor tab, then copy and paste the following code. 
+-- Click Run to query avocados_clustered—the table that is partitioned by an integer range and clustered by type.
 
 SELECT
     year,
