@@ -13,7 +13,16 @@
 
 <p>When businesses and companies face SQL Server performance challenges, they focus usually on applying <a rel="noreferrer noopener" aria-label="performance tuning tools (opens in a new tab)" href="https://www.devart.com/dbforge/sql/studio/sql-server-query-optimization.html" target="_blank">performance tuning tools</a> and optimization techniques. This will help not only analyze and make queries run faster but also eliminate performance issues, troubleshoot poor performance, and avoid any chaos or minimize the impact on SQL Server databases.</p>
 
+## Key factors in performance testing
+Earlier, you learned about some database performance considerations you can check for when a database starts slowing down. Here is a quick checklist of those considerations:
 
+- Queries need to be optimized
+
+- The database needs to be fully indexed
+
+- Data should be defragmented
+
+- There must be enough CPU and memory for the system to process requests
 
 <p><strong>Contents</strong></p>
 
