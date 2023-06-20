@@ -1,4 +1,6 @@
-https://ft-interactive.github.io/visual-vocabulary/
+- https://ft-interactive.github.io/visual-vocabulary/
+- https://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html
+- https://www.informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/
 
 <p align="center">
   <img src="https://github.com/KBryt/Software_Dev-Data_Science-Analytics/blob/main/Data%20Analyst/assets/BI%26TAB.jpeg"
