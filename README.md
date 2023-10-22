@@ -12,3 +12,5 @@
 | 3.   | [📘Data Science](https://github.com/KBryt/Software_Dev-Data_Science-Analytics/tree/main/Data%20Science)            | [1️⃣Deep Learning] <br> [2️⃣Machine Learning] <br> [3️⃣MLOps] <br> [4️⃣] <br> [5️⃣]|
 | 4.   | [📘Software Development](https://github.com/KBryt/Software_Dev-Data_Science-Analytics/tree/main/Software%20Devops)          | [1️⃣APIs]<br> [2️⃣Software Engineering] <br> [3️⃣] <br> [4️⃣] <br> [5️⃣]|
 
+
+https://vinija.ai/nlp/
